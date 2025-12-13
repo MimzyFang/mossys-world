@@ -274,11 +274,6 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "7f416e1e3f87291645fa70a03c5e907f862bc653b1af33d90453550724cbb886"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "4ee00a5436bf144f0eca2010a1dc3e4813117ee159e24c51337cfcde6a356eb1"
 metafile = true
@@ -526,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "4ed6639a3ee7eb1806bcf14e8fc895ad134d11811b20245269441bb80d1828f7"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "0846c709603ff778d27f6afe12caa9fedf0648b7d7182a969fd08fe6432b5cc9"
 metafile = true
 
 [[files]]
