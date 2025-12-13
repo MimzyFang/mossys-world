@@ -114,8 +114,8 @@ hash = "fe66655a8118ff5c0ccd793df9452e3a4c8ac913d2e2bf9efd4d2bfbe802fc30"
 metafile = true
 
 [[files]]
-file = "mods/citresewn.pw.toml"
-hash = "54903e0c688ac551485ad60ff6944b43fbe26bf808705d3a079231d08a8f67a4"
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
