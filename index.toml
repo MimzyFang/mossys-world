@@ -323,6 +323,11 @@ hash = "a55e547f30226037a2bc5bd534904234f91189b5102a61f13596941cbf8d5654"
 metafile = true
 
 [[files]]
+file = "mods/gabous-libs.pw.toml"
+hash = "4ea02ac5306ca7f3e583c3ca518fe2ca91e1d3ae9473b396d103eeb26a6bbf83"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
@@ -340,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "be75fa97845b24c102d33441e3f1e9a24d0ab622d57b031c0d0f6888ce5927a5"
+metafile = true
+
+[[files]]
+file = "mods/identity-fix.pw.toml"
+hash = "983fc7f924242b07d6af7f29e6c93653e213a6acc70746985460abb85c726b5f"
 metafile = true
 
 [[files]]
