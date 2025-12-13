@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
+hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ea3deed08ecabf84d5081093ab4db6412e4ef07f2c8b33561440bbc9b2ed4af3"
+hash = "5a307a166ed9775ce9de3f6c0196dbd52f921ef555fd9d507da4ede08b090746"
 metafile = true
 
 [[files]]
