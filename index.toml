@@ -29,6 +29,10 @@ file = "config/betterwitchhuts-fabric-1_21.toml"
 hash = "c8cd377bdf72795ee5557b0394e224f8ccf8be82f641d2b75afad05e6856a7b7"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "f826611c46bf4ac68382e68b65ab02f74e834190306e029cb17b3b8759cd73f0"
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "158e2ba42a0f4cdc09dc8582a8c523fac6f82bfb787bca425f71b437f5029f8e"
 metafile = true
@@ -470,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "0bf519c81bdf898ad3b9ad4ba4172427e90f82429669d85d6c12f7acfc3712aa"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -485,12 +489,12 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "c3d0746be98e5f5eaf1731a84e84724289f45f6b49836c5106e8d4669d3f84ec"
+hash = "b5c0182a299378a60b002e50c84869c563a020ecb7d03a66b5bd2523be987537"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a70105438f11495884d645c716605182185dc49853a0fb85c249cdc9ca20d121"
+hash = "81293600caba9ac49a854f8979b738bd9a4381063fcbabd51039cd0efd7a7753"
 metafile = true
 
 [[files]]
@@ -515,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "4ed6639a3ee7eb1806bcf14e8fc895ad134d11811b20245269441bb80d1828f7"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
@@ -545,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "0db86f115a313d0dce5b0068a470f6bf51faab6cbb659a2c84b0cd5e7d187072"
+hash = "e497cf3e707aa2defd69bca6b014b39e409c6b276e9dc2afd78790bd25f55d92"
 metafile = true
 
 [[files]]
@@ -556,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/particular.pw.toml"
 hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
@@ -575,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "08a438f3bc8e725598679eceed1f17e60231183628e5fe6b8b3b59ebac1e0368"
+hash = "ec82fc0dbba92b2fc9d8a970e7c3db2b5095b627763a8bc7b5f302c1f37aadf1"
 metafile = true
 
 [[files]]
@@ -715,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
