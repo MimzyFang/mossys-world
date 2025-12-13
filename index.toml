@@ -94,11 +94,6 @@ hash = "0fef7a2e43b7c9ec1306a6750cc734214df1be9768a0d4ffaa011508fb706260"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "2015444afd860c79fe1ca3737053873cc44cc9cef78c6384a3c82c7df73ee57e"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "ddbb4bf26d15027847e52f5b30479470299b9a8c687697309f0535d658b9944b"
 metafile = true
