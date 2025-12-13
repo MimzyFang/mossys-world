@@ -1,0 +1,10 @@
+    {
+      "version": 1,
+      "overrides": {
+        "via_romana": {
+          "-depends": {
+            "dataanchor": ">=2.0.0.13"
+          }
+        }
+      }
+    }

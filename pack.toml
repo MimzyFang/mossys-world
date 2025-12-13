@@ -1,0 +1,16 @@
+name = "Mossys World"
+author = "Mossy Stone"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "28c944f990e3fb1f657e7a0f5b0a1f6abe657e0c62adaa3e43c12885d57ab50b"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
