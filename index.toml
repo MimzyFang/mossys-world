@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "d4838d91cd7747816ade0f2f4a46c701a53c3ef84cb278ec24e8f6fb828a85c3"
+hash = "ab772682aeba5ecd127f348061e21e2a0e4799c3dad53d9eaa5baa85c21ab0c3"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "508dcb536d732a862ea9e8046861f99e698ecc094025d2299b4b0058fea57ea7"
+hash = "56fe38665725e5395991777ad79e63961851d2666880461305b95f71d03fe996"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4c958f083cb6301880cb3315311f722c1076de427586d927116543b257209c9d"
+hash = "5429cd818095447d37b7785c420f72bef18ccb2f2ca0c7df0f5620602ca31670"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "5511b1fd09258aeb4d4bf7843a91ab1fa022c9ca9a3052646ee42d1cbe5fa99d"
+hash = "54f06204b9f8b975c8c3a2a0089144c1b75d9f3ebb7d388955264d01aef0950f"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9ad3d84400b76fdfe4bc7abaec90a2308195e6e350c64ac473ba7e9748b2cfce"
+hash = "73c8968e0a12b2303c59f0991290fd0d6d7ac0566299314200beed9777f0fdc8"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-little-plushie.pw.toml"
-hash = "7ecce6d53005b271193cfacdaa43881268dd85d142879660766504b0a047d0e2"
+hash = "d54501a405cef6952ec3d125481cc575e779c6ed86b1c108171619b50f2f0e81"
 metafile = true
 
 [[files]]
@@ -629,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "c1757c90248ef8d8206395fb7c858bbc7da872269292f6f04a6ff40195f2f624"
+hash = "1e54e9df2c55c3cda376586ea0d93fc5543bc462f0e4dc6c199f08d349d5b898"
 metafile = true
 
 [[files]]
@@ -654,12 +654,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "6e42988e60a32a17a6bf9d7f7176911fa1d5093d814d35eb0c62c00318f0b341"
+hash = "ec566790c54fbf4081491eea296dfd3baf1b952abd1994ac0e6f448dd1f63f56"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "601c45e41ccfdb15d55599bd9600343033c8cb080fe59aa05b0a208ba279155b"
+hash = "27670ced0491777862fb15dbf598df3b0dfc86b73f19874419dff12dc29e3c15"
 metafile = true
 
 [[files]]
@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/vb-compat.pw.toml"
-hash = "0a1b621263ec9136833f789584b5d12f548945fdc02e979eb05470977641bae4"
+hash = "87ed1aca60a6b296ec1cd2189f13482a376e94882b3fc7c85de8093c732151b4"
 metafile = true
 
 [[files]]
@@ -714,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "57e15d674ae6b49cc42e4503454a3220884bed926a758eedf9895bae10db8e4b"
+hash = "41fa2e2fabc81ff476dbe940ab94818c25cb5553c81d8f3441396a80bfdbdb41"
 metafile = true
 
 [[files]]

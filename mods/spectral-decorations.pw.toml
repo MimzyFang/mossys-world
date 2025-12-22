@@ -1,13 +1,13 @@
 name = "Spectral Decorations"
-filename = "SpectralDecorations-1.7.0.jar"
+filename = "SpectralDecorations-1.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OtSTiI0D/versions/GARqDYui/SpectralDecorations-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/OtSTiI0D/versions/3u09EKKZ/SpectralDecorations-1.7.1.jar"
 hash-format = "sha512"
-hash = "7221758b4c325cfab95c51068fe11bb989ce94030253cd8201e1ef61c098d21fd35663f972c023069e0ab5a1d47d0d0977a697abb689b9efccaaf736b001b5ec"
+hash = "15a059102795a9231e51996cb3598510e72be3439bc68d2f85df3b0000fc43108b15472b63923e4aa44dc52ac2676fc4a167efbac76a7b95f6b333928048a56d"
 
 [update]
 [update.modrinth]
 mod-id = "OtSTiI0D"
-version = "GARqDYui"
+version = "3u09EKKZ"
