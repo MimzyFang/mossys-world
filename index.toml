@@ -708,6 +708,11 @@ hash = "87ed1aca60a6b296ec1cd2189f13482a376e94882b3fc7c85de8093c732151b4"
 metafile = true
 
 [[files]]
+file = "mods/vb-mob-variants-compat.pw.toml"
+hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
+metafile = true
+
+[[files]]
 file = "mods/via-romana.pw.toml"
 hash = "c2b5ca42a0edeaf683d59f7479ec503d33eaaa81289e219400db423aa088a20b"
 metafile = true
